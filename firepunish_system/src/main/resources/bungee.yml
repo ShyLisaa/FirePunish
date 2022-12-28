@@ -1,0 +1,4 @@
+name: FirePunish
+main: dev.shylisaa.firepunish.system.FirePunishPlugin
+version: '${project.version}'
+author: ShyLisaa
